@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="449817ad-b311-4227-8879-a8467b2d661f" name="Default Changelist" comment="" />
+    <list default="true" id="449817ad-b311-4227-8879-a8467b2d661f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -109,6 +116,7 @@
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Z0mcVOEOlk6d9r4He7wA5UZs5z" />
@@ -158,6 +166,7 @@
       <workItem from="1583990954567" duration="17000" />
       <workItem from="1583991190116" duration="2428000" />
       <workItem from="1584002689459" duration="6816000" />
+      <workItem from="1584243949379" duration="293000" />
     </task>
     <servers />
   </component>
@@ -185,10 +194,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.821@0.23.1440.821" timestamp="1584003124086" />
-    <state x="413" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1583991194472">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="413" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1584243952436">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
-    <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1583984478196" />
+    <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1584243952436" />
     <state x="413" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1583985685398" />
     <state x="413" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1583990958219" />
     <state x="413" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1583991194472" />
